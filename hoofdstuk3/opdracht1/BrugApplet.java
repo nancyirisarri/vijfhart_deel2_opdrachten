@@ -68,7 +68,4 @@ public class BrugApplet extends java.applet.Applet implements Runnable
     }
   }
   
-  public static void main(String[] args) {
-	  new BrugApplet().start();
-  }
 }
