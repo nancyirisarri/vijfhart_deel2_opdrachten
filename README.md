@@ -1,6 +1,6 @@
 # Purpose
 
-Code developed for the courses Java 7 Programming Language part 2 and OCP case taken at Vijfhart. 
+Code developed for the courses *Java 7 Programming Language part 2* and *OCP case* taken at Vijfhart. 
 
 
 
