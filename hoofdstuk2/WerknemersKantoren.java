@@ -16,10 +16,7 @@ import java.util.Vector;
 public class WerknemersKantoren {
 	// een dubbele backslash om niet aan te geven dat er een escape karakter
 	// gebruikt moet worden
-	// static String lokatie = "H:\\java\\io\\opdrachten\\";
 	static Path path = Paths.get("").toAbsolutePath();
-
-//	static String lokatie = "D:/data/nir21237/Documents/java/vijfhart/opdrachten_deel2/hoofdstuk2/";
 	static String lokatie = path.toAbsolutePath().toString() + File.separator;
 
 	static File f = new File(lokatie + "werknemers_kantoren.txt");
