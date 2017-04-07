@@ -1,0 +1,22 @@
+#!/bin/bash
+javac -sourcepath src -classpath "../.." -d classes src/com/vijfhart/casus/tree/LevelComparable.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/Node.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/AbstractNode.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NameNode.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NodeDouble.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NodeInt.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NodeLong.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NodeString.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/TreeComparator.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/IterableTree.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/Tree.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/stat/LongSummaryStatistics.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/NodeTree.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/TreeApp.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/Werknemer.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/WrapperNode.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/WerknemerNode.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/stat/NodeLongSummary.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/file/MyNodeLong.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/file/PathNode.java
+javac -sourcepath src -classpath "../.." -d classes2 src/com/vijfhart/casus/tree/WerknemerApp.java
